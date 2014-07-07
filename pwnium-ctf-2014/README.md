@@ -5,15 +5,15 @@
 
 ## Completed write-ups
 
-
+* [Altered Code](altered-code)
+* [Breakpoints](breakpoints)
+ 
 ## Incomplete write-ups
 
 * [2048](2048)
-* [Altered Code](altered-code)
 * [Baybe Cracme](baybe-crackme)
 * [Be a robot](be-a-robot)
 * [BreakMe](break_me)
-* [Breakpoints](breakpoints)
 * [Crackme Fast](crackme-fast)
 * [Find the owner](find-the-owner)
 * [Guest Book](guest-book)
